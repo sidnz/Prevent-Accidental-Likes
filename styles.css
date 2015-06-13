@@ -1,0 +1,7 @@
+.confirm-photo-like .unlike {
+  display: none;
+}
+
+.viewerLikesThis.confirm-photo-like .confirm-like{
+	display: none;
+}
